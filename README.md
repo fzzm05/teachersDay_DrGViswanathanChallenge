@@ -1,6 +1,6 @@
 # Teacher's Day Challenge 2025
 
-Welcome to my repository for the **Teacher's Day Challenge 2025**, a **43-day coding marathon** organized by the **PAT Cell at VIT Bhopal University**.  
+This is the repository for the **Teacher's Day Challenge 2025**, a **43-day coding marathon** organized by the **PAT Cell at VIT Bhopal University**.  
 This challenge is designed to sharpen problem-solving and coding skills in celebration of **Teacher's Day** on **September 5th**.
 
 ---
